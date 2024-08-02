@@ -24,7 +24,7 @@ return {
       --   json = { "jsonlint" },
       --   markdown = { "vale" },
       --   rst = { "vale" },
-      --   ruby = { "ruby" },
+      -- ruby = { "ruby" },
       --   terraform = { "tflint" },
       --   text = { "vale" }
       -- }
